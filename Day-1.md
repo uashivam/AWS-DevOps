@@ -334,11 +334,11 @@ echo "Deployment successful for version 1.0" | mail -s "Deployment Status" stake
 Here’s how the process flows in a typical pipeline:
 
 ```
-1. Client Ticket
+ Client Ticket
    ↓
-2. Developer (Code + Test Locally)
+ Developer (Code + Test Locally)
    ↓
-3. Push to GitHub → CI/CD Pipeline Triggered
+ Push to GitHub → CI/CD Pipeline Triggered
    ↓
    ├── Compile Code
    ├── Unit Tests
@@ -348,13 +348,13 @@ Here’s how the process flows in a typical pipeline:
    ├── Docker Build + Scan
    ├── Push Docker Image
    ↓
-4. Deploy to EKS
+ Deploy to EKS
    ↓
-5. Verify Deployment
+ Verify Deployment
    ↓
-6. Notify Stakeholders
+ Notify Stakeholders
    ↓
-7. Monitor and Optimize
+ Monitor and Optimize
 ```
 
 ### **Key Benefits of this Workflow**
