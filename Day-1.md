@@ -1,6 +1,6 @@
 # Day-1 | AWS DevOps Bootcamp | DevOps Intro & Workflow
 
-
+#check
 ## **What is DevOps?**
 
 **DevOps** is a cultural and technical movement that integrates development (Dev) and operations (Ops) teams to enhance collaboration, automate workflows, and deliver high-quality software faster. It emphasizes removing silos, improving communication, and fostering shared accountability throughout the software development lifecycle (SDLC).
